@@ -6,7 +6,7 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 ## Responsável: Rafaella Belisário
 Atribuição: Implementar a tela de login
-O que foi feito: utilizando o visual studio code, desenvolvi juntamente com o colega Hebert Sandinha, que se dispôs a me ensinar o funcionamento do programa e como realizar a programação passo-a-passo. A parte de html foi bem mais tranquila de ser compreendida e estruturada. Já a parte do CSS tive muita dificuldade em conseguir formatar da forma que tínhamos idealizado, são muitos detalhes e muitas possibilidades que podem ser alteradas, que acredito se tornarem mais tranquilas após de muita prática.
+<p>O que foi feito: utilizando o visual studio code, desenvolvi juntamente com o colega Hebert Sandinha, que se dispôs a me ensinar o funcionamento do programa e como realizar a programação passo-a-passo. A parte de html foi bem mais tranquila de ser compreendida e estruturada. Já a parte do CSS tive muita dificuldade em conseguir formatar da forma que tínhamos idealizado, são muitos detalhes e muitas possibilidades que podem ser alteradas, que acredito se tornarem mais tranquilas após de muita prática.<p>
 
 Endereço do vídeo de demonstração:
 
