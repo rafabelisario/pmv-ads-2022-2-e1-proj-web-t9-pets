@@ -8,10 +8,6 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 Atribuição: Implementar a tela de login
 <p>O que foi feito: utilizando o visual studio code, desenvolvi juntamente com o colega Hebert Sandinha, que se dispôs a me ensinar o funcionamento do programa e como realizar a programação passo-a-passo. A parte de html foi bem mais tranquila de ser compreendida e estruturada. Já a parte do CSS tive muita dificuldade em conseguir formatar da forma que tínhamos idealizado, são muitos detalhes e muitas possibilidades que podem ser alteradas, que acredito se tornarem mais tranquilas após muita prática. Na parte do CSS, acredito que a maior dificuldade foi no posicionamento da caixa de login e da parte textual dentro dela, o que demandou bastante tempo até chegar à formatação apresentada.<p>
 
-Figuras:
-  
-  ![Tela de Login Idealizada:].(img/
-
 Endereço do vídeo de demonstração:
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
