@@ -4,6 +4,12 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
+## Responsável: Rafaella Belisário
+Atribuição: Implementar a tela de login
+O que foi feito: utilizando o visual studio code, desenvolvi juntamente com o colega Hebert Sandinha, que se dispôs a me ensinar o funcionamento do programa e como realizar a programação passo-a-passo. A parte de html foi bem mais tranquila de ser compreendida e estruturada. Já a parte do CSS tive muita dificuldade em conseguir formatar da forma que tínhamos idealizado, são muitos detalhes e muitas possibilidades que podem ser alteradas, que acredito se tornarem mais tranquilas após de muita prática.
+
+Endereço do vídeo de demonstração:
+
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 > **Links Úteis**:
