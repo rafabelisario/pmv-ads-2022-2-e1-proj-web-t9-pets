@@ -10,8 +10,6 @@ Atribuição: Implementar a tela de login
 
 Endereço do vídeo de demonstração: https://youtu.be/JoZ-ZCfPfvA
   
- ou pode ser acessado 
-
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 > **Links Úteis**:
